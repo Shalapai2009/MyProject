@@ -1,5 +1,4 @@
-# MyProject
-prooooject
-GOOOOON
-STOP  
-тщц
+# Тех диздок по проекту  
+здесь кароч вся инфа  
+# 
+
